@@ -1,4 +1,4 @@
-# Spotify Listening Data Analysis
+# Spotify Data Analysis
 
 Exploratory data science project analyzing my personal Spotify streaming history to uncover listening trends, genre preferences, and temporal patterns using Python and Jupyter notebooks.
 
