@@ -61,8 +61,8 @@ This notebook showcases the power of structured queries to surface insights that
 
 ## 🛠️ Tech Stack
 
-| Layer           | Tools Used                             |
-|----------------|-----------------------------------------|
+| Layer           | Tools Used                              |
+|-----------------|-----------------------------------------|
 | Data Collection | Python, Spotipy, Spotify Web API        |
 | Data Processing | Pandas, NumPy, SQLite                   |
 | Visualization   | Matplotlib, Seaborn, Plotly             |
