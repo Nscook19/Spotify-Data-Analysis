@@ -2,12 +2,12 @@
 
 Exploratory data science project analyzing my personal Spotify streaming history to uncover listening trends, genre preferences, and temporal patterns using Python, SQL, and Jupyter notebooks.
 
-🔗 **Project Overview**  
+**Project Overview**  
 This project applies data analysis and visualization techniques on raw Spotify streaming JSON data enriched with artist genre metadata fetched via the Spotify API. It delivers insights into my music habits over hours, months, seasons, and years, revealing nuanced listening behaviors, genre transitions, and patterns best uncovered through SQL-based relational analysis.
 
 ---
 
-## 🧠 Data Science & Analysis Highlights
+## Data Science & Analysis Highlights
 
 Through comprehensive data wrangling, cleaning, enrichment, and relational querying across four Jupyter notebooks, I demonstrated key data science skills:
 
@@ -33,7 +33,7 @@ Through comprehensive data wrangling, cleaning, enrichment, and relational query
 
 ---
 
-## 🗄️ SQL-Based Analysis (New)
+## SQL-Based Analysis (New)
 
 A dedicated notebook focuses on using SQL (via SQLite) to uncover deeper relational patterns in listening behavior. This layer of analysis supplements Python-based EDA with structured querying for optimized aggregation, filtering, and time-based insights.
 
@@ -59,7 +59,7 @@ This notebook showcases the power of structured queries to surface insights that
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer           | Tools Used                              |
 |-----------------|-----------------------------------------|
@@ -71,7 +71,7 @@ This notebook showcases the power of structured queries to surface insights that
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 - Robust Spotify streaming history ingestion with JSON file parsing  
 - Artist genre lookup leveraging Spotify API with caching for performance  
@@ -82,7 +82,7 @@ This notebook showcases the power of structured queries to surface insights that
 
 ---
 
-## 🧰 Technical Achievements
+## Technical Achievements
 
 - Integrated third-party API data to enrich and contextualize raw streaming data  
 - Built a reproducible, modular data pipeline for cleaning, transformation, and analysis  
@@ -92,7 +92,7 @@ This notebook showcases the power of structured queries to surface insights that
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Real-world API integration challenges and best practices for data enrichment  
 - Advanced time series feature engineering in user behavior data  
